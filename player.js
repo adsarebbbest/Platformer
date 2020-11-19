@@ -6,7 +6,7 @@ function Player(x, y) {
   this.friction = 0.9;
   this.maxSpeed = 15;
   this.width = 50;
-  this.height = 50;
+  this.height = 100;
   this.active = true;
   this.step = function() {
     if(this.active) {
