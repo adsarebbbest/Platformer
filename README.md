@@ -1,4 +1,4 @@
 # Platformer
-a platformer in vanilla js
+A platformer in vanilla js. WASD to move.
 <br>
-site here: https://adsarebbbest.github.io/Platformer/
+Site here: https://adsarebbbest.github.io/Platformer/
